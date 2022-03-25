@@ -5,7 +5,7 @@
 
 ## 1. 프로젝트 소개
 
-<img src="./metavarse_fair.png" ></img>
+<img src="./metaverse_fair.png" ></img>
 
 - Pickle 서비스는 메타버스(ZEP) 및 앱 플랫폼을 활용해 이미지 크리에이터들과 유저들이 실물 및 온라인 컨텐츠를 공유하는 서비스입니다.
 
