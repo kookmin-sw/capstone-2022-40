@@ -1,77 +1,42 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-f059dc9a6f8d3a56e377f745f24479a46679e63a5d9fe6f495e02850cd0d8118.svg)](https://classroom.github.com/online_ide?assignment_repo_id=7413186&assignment_repo_type=AssignmentRepo)
-# Welcome to GitHub
 
-캡스톤 팀 생성을 축하합니다.
-
-## 팀소개 및 페이지를 꾸며주세요.
-
-- 프로젝트 소개
-  - 프로젝트 설치방법 및 데모, 사용방법, 프리뷰등을 readme.md에 작성.
-  - Api나 사용방법등 내용이 많을경우 wiki에 꾸미고 링크 추가.
-
-- 팀페이지 꾸미기
-  - 프로젝트 소개 및 팀원 소개
-  - index.md 예시보고 수정.
-
-- GitHub Pages 리파지토리 Settings > Options > GitHub Pages 
-  - Source를 marster branch
-  - Theme Chooser에서 태마선택
-  - 수정후 팀페이지 확인하여 점검.
-
-**팀페이지 주소** -> https://kookmin-sw.github.io/ '{{자신의 리파지토리 아이디}}'
-
-**예시)** 2020년 0조  https://kookmin-sw.github.io/capstone-2020-0/
+# (주) CONCAT 산학 자유분반 프로젝트 입니다.
 
 
-## 내용에 아래와 같은 내용들을 추가하세요.
+## 1. 프로젝트 소개
 
-### 1. 프로잭트 소개
+<img src="./metavarse_fair.png" ></img>
 
-프로젝트
+- Pickle 서비스는 메타버스(ZEP) 및 앱 플랫폼을 활용해 이미지 크리에이터들과 유저들이 실물 및 온라인 컨텐츠를 공유하는 서비스입니다.
 
-### 2. 소개 영상
+- 코로나19로 오프라인 페어에 마음 놓고 가기가 조심스러웠던 분들, 페어 일정과 시간이 맞지 않거나 페어 장소가 너무 멀어 참여가 힘드셨던 작가분들과 예매가 어려우셨던 분들, 온라인 공간에서 시간과 장소의 제약없이 서로 소통하고 싶어하는 모든 분들을 위한 서비스입니다.
 
-프로젝트 소개하는 영상을 추가하세요
+- https://www.instagram.com/metaverse_fair
 
-### 3. 팀 소개
+### Abstract
+> Pickle service is a service in which image creators and users share real and online content using Metabus (ZEP) and app platforms.
 
-팀을 소개하세요.
+> It is a service for those who were careful to go to the offline fair with COVID-19, writers who had difficulty participating due to the lack of time and time, and those who wanted to communicate with each other without restrictions on time and place in online space.
 
-팀원정보 및 담당이나 사진 및 SNS를 이용하여 소개하세요.
+## 2. 소개 영상
 
-### 4. 사용법
+추후 작성 예정
 
-소스코드제출시 설치법이나 사용법을 작성하세요.
-
-### 5. 기타
-
-추가적인 내용은 자유롭게 작성하세요.
-
-
-## Markdown을 사용하여 내용꾸미기
-
-Markdown은 작문을 스타일링하기위한 가볍고 사용하기 쉬운 구문입니다. 여기에는 다음을위한 규칙이 포함됩니다.
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+## 3. 팀 소개
 ```
+- CONCAT
+```
+```
+- 강다윤
+  - Student ID: ****5280
+  - Role : FrontEnd & BackEnd
+  - E-Mail: 0411yun@kookmin.ac.kr
+  - Github: https://github.com/kangdayun
+```
+## 4. 사용법
 
-자세한 내용은 [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+추후 작성 예정
 
-### Support or Contact
+## 5. 기타
 
-readme 파일 생성에 추가적인 도움이 필요하면 [도움말](https://help.github.com/articles/about-readmes/) 이나 [contact support](https://github.com/contact) 을 이용하세요.
+추후 작성 예정
