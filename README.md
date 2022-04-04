@@ -29,7 +29,7 @@
 ```
 - 강다윤
   - Student ID: ****5280
-  - Role : FrontEnd & BackEnd
+  - Role: FrontEnd & BackEnd & DB
   - E-Mail: 0411yun@kookmin.ac.kr
   - Github: https://github.com/kangdayun
 ```
